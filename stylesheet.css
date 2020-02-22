@@ -1,0 +1,35 @@
+body{
+	background-color: #023746
+
+
+}
+
+h1{
+	color: #FFFCFC;
+	font-family: Century Gothic;
+
+}
+h2{
+	color: #FFFCFC;
+	font-family: Century Gothic;
+} 
+p{
+	color: #ABA3EB
+}
+
+
+ul{
+	color: #D2D2D2
+}
+ol{
+	color: #FFF961
+}
+
+a:link{
+	text-decoration: none;
+}
+
+p::first-letter{
+	font-size: 200%;
+	color:#66FFA7;
+}
